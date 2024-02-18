@@ -1,0 +1,20 @@
+* {
+    font-family: "comic sans ms", Arial; 
+    color: lawngreen; 
+}
+
+body {
+    background-image: url(amogus.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+#mainheader {
+    text-align: center;
+    border-style: double;
+    padding: 5px;
+    background-color: linear-gradient(to left pink, lightgreen);
+}
