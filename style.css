@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url(amogus.gif);
+    background-color: linear-gradient(to left pink, lightgreen);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -15,6 +15,7 @@ body {
 #mainheader {
     text-align: center;
     border-style: double;
+    border-width: 69px;
     padding: 5px;
-    background-color: linear-gradient(to left pink, lightgreen);
+    background-image: url(amogus.gif);
 }
